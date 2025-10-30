@@ -1,0 +1,20 @@
+{
+  "name": "terra-sphere-3d",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "author": "Your Name",
+  "description": "İnteraktif 3D gezegen görselleştirme projesi - Three.js ile geliştirilmiş özgün bir deneyim",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "~5.9.3",
+    "vite": "^7.1.7"
+  },
+  "dependencies": {
+    "three": "^0.180.0"
+  }
+}

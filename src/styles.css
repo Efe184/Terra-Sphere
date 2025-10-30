@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
+  overflow: hidden;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#terra-canvas {
+  display: block;
+  width: 100%;
+  height: 100vh;
+  cursor: grab;
+}
+
+#terra-canvas:active {
+  cursor: grabbing;
+}
+
+/* Loading animation - opsiyonel */
+@keyframes pulse {
+  0%, 100% { opacity: 0.4; }
+  50% { opacity: 1; }
+}
+
+.loading {
+  animation: pulse 2s ease-in-out infinite;
+}
+
