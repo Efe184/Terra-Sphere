@@ -17,6 +17,7 @@ Three.js ve WebGL shader teknolojileri kullanılarak geliştirilmiş, tam intera
 
 - **Vite** (v7.1.7) - Next-gen build tool
 - **Three.js** (v0.180.0) - 3D graphics library
+- **Terser** - Production minification
 - **WebGL Shaders** - Custom vertex & fragment shaders
 - **ES Modules** - Modern JavaScript module system
 - **TypeScript Ready** - Type support hazır
