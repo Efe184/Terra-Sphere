@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "author": "Your Name",
+  "author": "Ahmet Efe Şıltak",
   "description": "İnteraktif 3D gezegen görselleştirme projesi - Three.js ile geliştirilmiş özgün bir deneyim",
   "scripts": {
     "dev": "vite",

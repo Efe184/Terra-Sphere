@@ -2,6 +2,10 @@
 
 Three.js ve WebGL shader teknolojileri kullanılarak geliştirilmiş, tam interaktif 3D gezegen görselleştirme projesi. Modern web teknolojileri ile offline çalışabilir yapıda kurulmuştur.
 
+🚀 **[Canlı Demo'yu İncele](https://terra-sphere-gamma.vercel.app/)**
+
+> Geliştirici: **Ahmet Efe Şıltak**
+
 ## ✨ Özellikler
 
 - 🪐 **İnteraktif 3D Sphere**: Mouse kontrolü ile 360° döndürülebilir gezegen modeli
@@ -173,9 +177,10 @@ Bu proje MIT lisansı altında açık kaynaklıdır.
 
 ---
 
-**Geliştirici**: Your Name  
+**Geliştirici**: Ahmet Efe Şıltak  
 **Versiyon**: 1.0.0  
-**Son Güncelleme**: 2025
+**Son Güncelleme**: 2025  
+**Live Demo**: [https://terra-sphere-gamma.vercel.app/](https://terra-sphere-gamma.vercel.app/)
 
 ---
 
